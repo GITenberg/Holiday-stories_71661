@@ -1,0 +1,29 @@
+_repo: Holiday-stories_71661
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lamb, Ruth
+    aliases:
+    - Buck, Ruth
+    - Lamb, Mrs. (Ruth)
+    - Lamb, Ruth Buck
+    birthdate: 1829
+    deathdate: 1916
+    gutenberg_agent_id: '55945'
+    url: http://www.gutenberg.org/2009/agents/55945
+description: ''
+gutenberg_issued: '2023-09-16'
+identifiers:
+  gutenberg: '71661'
+language: en
+pgterms:marc905: 20230912113638lamb
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Holiday stories
+url: http://www.gutenberg.org/ebooks/71661
